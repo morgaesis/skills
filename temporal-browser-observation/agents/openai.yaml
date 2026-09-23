@@ -1,0 +1,4 @@
+interface:
+  display_name: "Temporal Browser Observation"
+  short_description: "Observe dynamic web pages over time"
+  default_prompt: "Use $temporal-browser-observation to inspect an interactive page after a UI action."
